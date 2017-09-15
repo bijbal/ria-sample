@@ -1,0 +1,31 @@
+{
+  "name": "emp.ria-framework",
+  "version": "0.3.3",
+  "homepage": "https://github.com/viatsyshyn/emp.ria",
+  "authors": [
+    "Volodymyr Iatsyshyn <viatsyshyn@gmail.com>"
+  ],
+  "description": "EMP rich internet application framework",
+  "main": "_bootstrap.js",
+  "keywords": [
+    "emp.ria",
+    "framework"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "0.3.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.3.3",
+    "commit": "357687c53659ea9c743de8aa9b3c339056d8c754"
+  },
+  "_source": "https://github.com/viatsyshyn/emp.ria.git",
+  "_target": "~0.3.0",
+  "_originalSource": "emp.ria-framework"
+}
